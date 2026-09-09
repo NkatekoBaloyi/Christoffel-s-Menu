@@ -1,6 +1,6 @@
 # Christoffel-s-Menu
 
-YOU TUBELINK:https://youtube.com/shorts/WeAf8GSkYrE
+YOUTUBE LINK:https://youtube.com/shorts/WeAf8GSkYrE
 
 A mobile-first React prototype for managing a restaurant menu.  
 Built as a self-contained UI demo with multiple screens, form validation, search/filter, and a receipt calculator.
