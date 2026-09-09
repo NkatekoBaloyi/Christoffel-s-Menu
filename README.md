@@ -46,3 +46,14 @@ npm install
 # Start the development server
 npm start
   
+Login → Loading → Home (Menu Manager)
+                     ├── View Menu → Menu List ⇄ Dish Details ⇄ Add/Edit
+                     └── Add New Dish → Add/Edit form
+                     
+From Dish Details → Receipt
+
+LoremFlickr. s.a. LoremFlickr: free placeholder images. [Online]. Available at: https://loremflickr.com/ [Accessed 9 September 2026].
+MDN Web Docs. s.a. CSS: Cascading Style Sheets. [Online]. Available at: https://developer.mozilla.org/en-US/docs/Web/CSS [Accessed 9 September 2026].
+React. s.a. React documentation. [Online]. Available at: https://react.dev/ [Accessed 9 September 2026].
+South African Revenue Service (SARS). s.a. Value-added tax (VAT). [Online]. Available at: https://www.sars.gov.za/types-of-tax/value-added-tax/ [Accessed 9 September 2026].
+TypeScript. s.a. TypeScript documentation. [Online]. Available at: https://www.typescriptlang.org/docs/ [Accessed 9 September 2026].
